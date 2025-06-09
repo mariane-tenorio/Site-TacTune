@@ -9,4 +9,4 @@ O TacTune é um semáforo inteligente com um sistema de alerta sonoro que auxili
 Caso tenha interesse em visitar o site, este é o link: https://tactune.vercel.app/
 
 # A cara do site:
-![Site TacTune](https://github.com/user-attachments/assets/1a520e50-fc94-4372-b177-4537793af09f)
+![Site TacTune](https://github.com/user-attachments/assets/2469f143-d0da-4d5f-9445-57c6430dcf51)
